@@ -1,8 +1,3 @@
-"""
-Windows Calculator Replica - Python Implementation
-Complete functional calculator with all Windows 11 Calculator modes
-"""
-
 import tkinter as tk
 from tkinter import ttk
 import math
@@ -981,3 +976,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
